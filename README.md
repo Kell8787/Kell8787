@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, soy Rodrigo Iraheta! 👋
 
-<!--
-**Kell8787/Kell8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante apasionado por la programación y el desarrollo de software. Actualmente, estoy cursando mi carrera en Ingeniería Informática y me enfoco en aprender nuevas tecnologías y desarrollar proyectos académicos que me ayuden a mejorar mis habilidades.
 
-Here are some ideas to get you started:
+### 🧑‍💻 **Tecnologías que estudio y uso:**
+- **Lenguajes**: Java, C++, Python, JavaScript, SQL
+- **Frameworks y Librerías**: Spring Boot, React, Next.js
+- **Bases de Datos**: PostgreSQL, MySQL
+- **Herramientas**: Docker, Git, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 **Áreas en las que me estoy especializando:**
+- **Backend**: Desarrollo de API RESTful, microservicios con Spring Boot
+- **Bases de datos**: Modelado y optimización de bases de datos, SQL avanzado
+- **Desarrollo web**: Creación de interfaces con React y Next.js
+
+### 📬 **Contáctame:**
+- Correo: isiraheta55@gmail.com
