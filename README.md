@@ -30,7 +30,7 @@ I love learning new technologies, developing projects, and experimenting with in
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,express,figma,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,tailwind,vscode,arduino,c,gmail,gradle,idea,kotlin,npm,notion,vite,visualstudio,vscode,webstorm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,express,figma,github,html,java,js,spring,linux,mongodb,mysql,nodejs,postman,py,react,tailwind,vscode,arduino,c,gmail,gradle,idea,kotlin,npm,notion,vite,visualstudio,vscode,webstorm&perline=14" />
   </a>
 </p>
 
