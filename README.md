@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hola, soy Rodrigo Iraheta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Rodrigo Iraheta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-Soy un estudiante apasionado por la programación y el desarrollo de software. Actualmente, estoy cursando mi carrera en Ingeniería Informática estoy ampliando mis conocimientos para convertirme en un Software Developer.
-Me encanta aprender nuevas tecnologías, desarrollar proyectos y experimentar con innovaciones que me ayuden a mejorar mis habilidades. Además, tengo la meta de viajar a otros países y expandir mis experiencias como profesional.
+I am a student passionate about programming and software development. Currently, I am pursuing a degree in Computer Engineering and expanding my knowledge to become a Software Developer.
+I love learning new technologies, developing projects, and experimenting with innovations that help improve my skills. Additionally, I have the goal of traveling to other countries and broadening my experiences as a professional.
 
 <!--About Me-->
 
@@ -10,11 +10,11 @@ Me encanta aprender nuevas tecnologías, desarrollar proyectos y experimentar co
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 🔧 Me centro en el **desarrollo backend**, pero de momento sigo estudiando.
-- 🌍 Tengo la meta de **viajar a otros países** y expandir mis experiencias.
-- 📧 **Correo de contacto:** [isiraheta55@gmail.com](mailto:isiraheta55@gmail.com)
-- 🎮 **Hobbies:** Jugar videojuegos, hacer deporte y disfrutar de un buen tiempo libre.
-- 📚 Me encanta **aprender cosas nuevas** y siempre estoy buscando formas de mejorar mis habilidades.
+- 🔧 I focus on **backend development**, but I am still studying.
+- 🌍 I aim to **travel to other countries** and expand my experiences.
+- 📧 **Contact email:** [isiraheta55@gmail.com](mailto:isiraheta55@gmail.com)
+- 🎮 **Hobbies:** Playing video games, doing sports, and enjoying free time.
+- 📚 I love to **learn new things** and am always looking for ways to improve my skills.
 - 🤔 Always believe **"Be nice for no reasons"**
 
 <br>
