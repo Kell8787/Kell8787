@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hola, soy Rodrigo Iraheta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-Soy un estudiante apasionado por la programación y el desarrollo de software. Actualmente, estoy cursando mi carrera en Ingeniería Informática y me enfoco en aprender nuevas tecnologías y desarrollar proyectos académicos que me ayuden a mejorar mis habilidades.
+Soy un estudiante apasionado por la programación y el desarrollo de software. Actualmente, estoy cursando mi carrera en Ingeniería Informática estoy ampliando mis conocimientos para convertirme en un Software Developer.
+Me encanta aprender nuevas tecnologías, desarrollar proyectos y experimentar con innovaciones que me ayuden a mejorar mis habilidades. Además, tengo la meta de viajar a otros países y expandir mis experiencias como profesional.
 
 <!--About Me-->
 
